@@ -1,6 +1,6 @@
 # Gilmmer Blockchain RFCs
 
-[[Telegram Group](https://cdn.rawgit.com/Patrolavia/telegram-badge/8fe3382b/chat.svg)](https://t.me/joinchat/GkLwohOlKoYWAF-oeKzHLg)
+[![Telegram Group](https://cdn.rawgit.com/Patrolavia/telegram-badge/8fe3382b/chat.svg)](https://t.me/joinchat/GkLwohOlKoYWAF-oeKzHLg)
 
 This repository contains proposals, standards and documentations related to Gilmmer Blockchain.
 
